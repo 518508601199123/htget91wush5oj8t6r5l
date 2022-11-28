@@ -1,0 +1,154 @@
+learngermanlanguage/
+learngermanlanguage/result.json
+learngermanlanguage/files
+learngermanlanguage/files/B1 Zertifikat Deutsch.rar
+learngermanlanguage/files/2.pdf
+learngermanlanguage/files/Übungstest, Aufgabe 2.mp3
+learngermanlanguage/files/Kapitel 1_ A 21.mp3
+learngermanlanguage/files/Kapitel 7, Übung A1.mp3
+learngermanlanguage/files/GLT_2015_16.pdf
+learngermanlanguage/files/Kapitel 1_ D 1.mp3
+learngermanlanguage/files/Kapitel 5, Übung A5.mp3
+learngermanlanguage/files/Kapitel 1_ A 6.mp3
+learngermanlanguage/files/lektion9_a1.pdf
+learngermanlanguage/files/Kapitel 2_ A 12.mp3
+learngermanlanguage/files/Kapitel 6, Übung A21.mp3
+learngermanlanguage/files/Kapitel 4_ D 1.mp3
+learngermanlanguage/files/Kapitel 6, Übung B2.mp3
+learngermanlanguage/files/Kapitel 1_ C 6.mp3
+learngermanlanguage/files/Kapitel 5, Übung A5 (1).mp3
+learngermanlanguage/files/Kapitel 6, Übung A3.mp3
+learngermanlanguage/files/a1_skript_gr.pdf
+learngermanlanguage/files/downloadfile-20.bin
+learngermanlanguage/files/Kapitel 5, Übung A14.mp3
+learngermanlanguage/files/Kapitel 3_ A 1.mp3
+learngermanlanguage/files/German (1).pdf
+learngermanlanguage/files/Kapitel 3_ A 12.mp3
+learngermanlanguage/files/1 (1).pdf
+learngermanlanguage/files/German.pdf
+learngermanlanguage/files/Kapitel 4_B 2.mp3
+learngermanlanguage/files/Kapitel 6, Übung A10.mp3
+learngermanlanguage/files/Kapitel 6, Übung A1.mp3
+learngermanlanguage/files/Kapitel 3_ A 18.mp3
+learngermanlanguage/files/downloadfile-13.bin
+learngermanlanguage/files/lektion3_a1.pdf
+learngermanlanguage/files/listen-tabellen.pdf
+learngermanlanguage/files/Kapitel 8, Übung A9.mp3
+learngermanlanguage/files/A1 Audiodateien.zip
+learngermanlanguage/files/Kapitel 1_ A 8.mp3
+learngermanlanguage/files/Kapitel 6, Übung D1.mp3
+learngermanlanguage/files/lektion7_a1.pdf
+learngermanlanguage/files/L_246_sungen.pdf
+learngermanlanguage/files/Kapitel 1_ A 12.mp3
+learngermanlanguage/files/Kapitel 1_ A 3.mp3
+learngermanlanguage/files/Kapitel 3_ A 23.mp3
+learngermanlanguage/files/Kapitel 6, Übung B5.mp3
+learngermanlanguage/files/Kapitel 1_ A 23.mp3
+learngermanlanguage/files/Kapitel 1_ B 3.mp3
+learngermanlanguage/files/Kapitel 5, Übung A24.mp3
+learngermanlanguage/files/english_grammar_for_students_of.pdf
+learngermanlanguage/files/dl.php
+learngermanlanguage/files/Kapitel 1_ A 9.mp3
+learngermanlanguage/files/Kapitel 1_ A 34.mp3
+learngermanlanguage/files/Übungstest, Aufgabe 1.mp3
+learngermanlanguage/files/1680459f97
+learngermanlanguage/files/a2_skript_gr.pdf
+learngermanlanguage/files/Beg__B1__1-4.pdf
+learngermanlanguage/files/B1+Erfahrung.pdf
+learngermanlanguage/files/Kapitel 5, Übung A4.mp3
+learngermanlanguage/files/Kapitel 3_ D 1.mp3
+learngermanlanguage/files/Kapitel 4_ A 26.mp3
+learngermanlanguage/files/Fsi-GermanBasicCourse-Volume1-StudentText.pdf
+learngermanlanguage/files/Kapitel 5, Übung D1.mp3
+learngermanlanguage/files/Kapitel 3_ A 6.mp3
+learngermanlanguage/files/lektion2_a1.pdf
+learngermanlanguage/files/Kapitel 1_ A 25.mp3
+learngermanlanguage/files/Kapitel 5, Übung A22.mp3
+learngermanlanguage/files/Übungstest, Aufgabe 3.mp3
+learngermanlanguage/files/Kapitel 4_ A 15.mp3
+learngermanlanguage/files/Kapitel 1_ A 27.mp3
+learngermanlanguage/files/Intro.mp3
+learngermanlanguage/files/Begegnungen B2.pdf
+learngermanlanguage/files/Kapitel 4_ A 3.mp3
+learngermanlanguage/files/Kapitel 8, Übung A14.mp3
+learngermanlanguage/files/lektion8_a1.pdf
+learngermanlanguage/files/Kapitel 5, Übung A6.mp3
+learngermanlanguage/files/Kapitel 2_ A 1.mp3
+learngermanlanguage/files/Kapitel 8, Übung A8.mp3
+learngermanlanguage/files/glossary_a1.pdf
+learngermanlanguage/files/Kapitel 3_ A 19.mp3
+learngermanlanguage/files/Begegnungen A1.pdf
+learngermanlanguage/files/German (2).pdf
+learngermanlanguage/files/2 (1).pdf
+learngermanlanguage/files/Kapitel 7, Übung A15.mp3
+learngermanlanguage/files/Kapitel 5, Übung A28.mp3
+learngermanlanguage/files/Kapitel 2_ A 22.mp3
+learngermanlanguage/files/Kapitel 6, Übung A12.mp3
+learngermanlanguage/files/hammer_s_german_grammar_and_usage_-_5th_ed_-_indexable.pdf
+learngermanlanguage/files/fit1_uebungssatz_01.pdf
+learngermanlanguage/files/GermanCourse-Mr.NaderHegazy.pdf
+learngermanlanguage/files/B1 Audiodateien.zip
+learngermanlanguage/files/Kapitel 5, Übung A27c.mp3
+learngermanlanguage/files/Begegnungen B1-1.pdf
+learngermanlanguage/files/Menschen+A1+Kommunikation.pdf
+learngermanlanguage/files/lektion10_a1.pdf
+learngermanlanguage/files/Kapitel 4_ A 5.mp3
+learngermanlanguage/files/lektion1_a1.pdf
+learngermanlanguage/files/Kapitel 3_ A 10.mp3
+learngermanlanguage/files/lektion12_a1.pdf
+learngermanlanguage/files/Kapitel 2_ A 8.mp3
+learngermanlanguage/files/b2_skript_gr.pdf
+learngermanlanguage/files/Kapitel 8, Übung D1.mp3
+learngermanlanguage/files/Kapitel 2_ D 1.mp3
+learngermanlanguage/files/4_6046417043337511753.pdf
+learngermanlanguage/files/Kapitel 2_ A 3.mp3
+learngermanlanguage/files/lektion4_a1.pdf
+learngermanlanguage/files/Kapitel 3_ B 4.mp3
+learngermanlanguage/files/4_5952718526434246667.pdf
+learngermanlanguage/files/Kapitel 6, Übung A17.mp3
+learngermanlanguage/files/Kapitel 7, Übung A10.mp3
+learngermanlanguage/files/nomen_verb_verbindungen.pdf
+learngermanlanguage/files/Kapitel 1_ A 1.mp3
+learngermanlanguage/files/Kapitel 8, Übung A13.mp3
+learngermanlanguage/files/Kapitel 4_ A 29.mp3
+learngermanlanguage/files/Kapitel 5, Übung A1.mp3
+learngermanlanguage/files/Kapitel 2_ A 18.mp3
+learngermanlanguage/files/Kapitel 8, Übung B5.mp3
+learngermanlanguage/files/Kapitel 7, Übung A22.mp3
+learngermanlanguage/files/Kapitel 3_ A 14.mp3
+learngermanlanguage/files/Kapitel 5, Übung A26.mp3
+learngermanlanguage/files/Kapitel 1_ A 4.mp3
+learngermanlanguage/files/تعلم_الألمانية_بدون_معلم_ketab4pdf.pdf
+learngermanlanguage/files/SH_German_A1_F13.pdf
+learngermanlanguage/files/downloadfile-15.bin
+learngermanlanguage/files/Kapitel  1 bis 4.mp3
+learngermanlanguage/files/Kapitel 4_ A 23.mp3
+learngermanlanguage/files/lektion6_a1.pdf
+learngermanlanguage/files/Kapitel 8, Übung A20.mp3
+learngermanlanguage/files/Kapitel 5, Übung B3.mp3
+learngermanlanguage/files/Kapitel 7, Übung B1.mp3
+learngermanlanguage/files/downloadfile-18.bin
+learngermanlanguage/files/Kapitel 1_ A 18.mp3
+learngermanlanguage/files/lektion11_a1.pdf
+learngermanlanguage/files/downloadfile-27.bin
+learngermanlanguage/files/C2 Audiodateien.zip
+learngermanlanguage/files/lektion5_a1.pdf
+learngermanlanguage/files/1.pdf
+learngermanlanguage/files/Kapitel 6, Übung A20.mp3
+learngermanlanguage/files/Kapitel 2_ A 27.mp3
+learngermanlanguage/files/Kapitel 7, Übung A12.mp3
+learngermanlanguage/files/Kapitel 4_ A 1.mp3
+learngermanlanguage/files/c1_skript_gr.pdf
+learngermanlanguage/files/Kapitel 3_ A 21.mp3
+learngermanlanguage/files/Begegnungen B1-2.pdf
+learngermanlanguage/files/A2 Audiodateien.zip
+learngermanlanguage/files/Kapitel 1_ A 24.mp3
+learngermanlanguage/files/german_language_guide_0910.pdf
+learngermanlanguage/files/Kapitel 1_ A 30.mp3
+learngermanlanguage/files/Kapitel 1_ A 2.mp3
+learngermanlanguage/files/Kapitel 4_ A 7.mp3
+learngermanlanguage/files/Kapitel 7, Übung D1.mp3
+learngermanlanguage/files/dl (1).php
+learngermanlanguage/files/Kapitel 6, Übung A28.mp3
+learngermanlanguage/files/b1_skript_gr.pdf
+learngermanlanguage/files/Kapitel 2_ A 14.mp3
